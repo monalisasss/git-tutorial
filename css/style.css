@@ -30,6 +30,7 @@ legend{
     font-size: 10pt;
 }
 header {
+    display: fixed;
     margin: 0 auto;
 }
 header img{
